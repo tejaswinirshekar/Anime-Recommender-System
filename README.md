@@ -23,16 +23,3 @@ Built with end-to-end MLOps in mind, the project leverages:
 - ☁️ Scalable deployment on Kubernetes
 
 ---
-
-## 🗂️ Project Structure
-Hybrid-Anime-Recommender-System/
-├── data/                   # DVC-tracked raw/processed data
-├── notebooks/              # EDA and experiment notebooks
-├── recommender/            # Core ML models: CF + content-based
-├── api/                    # Flask API for inference
-├── kubernetes/             # K8s deployment configs
-├── dvc.yaml                # DVC pipeline file
-├── Jenkinsfile             # CI/CD pipeline definition
-├── Dockerfile              # Container image for model/API
-├── requirements.txt
-└── README.md
