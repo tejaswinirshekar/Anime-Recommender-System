@@ -1,4 +1,4 @@
-# 🎥 Hybrid Anime Recommender System 🎌  
+# 🎥 Hybrid Anime Recommender System  
 ### With Comet-ML, DVC, Jenkins CI/CD, and Kubernetes Deployment
 
 This project presents a **hybrid recommendation system** for anime series that combines **collaborative filtering** and **content-based filtering**, enhanced with **ML tracking**, **version control**, **automated pipelines**, and **containerized deployment**.
